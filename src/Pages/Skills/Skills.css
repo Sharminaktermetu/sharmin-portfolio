@@ -1,0 +1,7 @@
+.skill-card {
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .skill-card:hover {
+    opacity: 0.7; /* Reduce opacity on hover to create a fade-out effect */
+  }

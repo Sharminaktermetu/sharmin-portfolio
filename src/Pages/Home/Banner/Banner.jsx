@@ -5,7 +5,7 @@ import './Banner.css';
 const Banner = () => {
   return (
     <div className='rounded'>
-     <img src={banner} alt="" className='rounded'/>
+     <img src={banner} alt=""/>
     </div>
   );
 };
